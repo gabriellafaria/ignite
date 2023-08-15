@@ -15,4 +15,5 @@ module.exports = {
       { allowConstantExport: true },
     ],
   },
+  "extends": "@rocketseat/eslint-config/react"
 }
