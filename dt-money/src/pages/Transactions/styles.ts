@@ -22,7 +22,7 @@ export const TransationsTable = styled.table`
       border-bottom-left-radius: 6px;
     }
 
-    &:first-child {
+    &:last-child {
       border-top-right-radius: 6px;
       border-bottom-right-radius: 6px;
     }
